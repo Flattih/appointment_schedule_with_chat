@@ -1,16 +1,15 @@
-# appointment_schedule_app
+#  Features
+- Searching,go to wanted profile
+- Update profile photo show related posts in profile
+-  Show products by category
+-  Post creation show all posts by date,voting
+-  Each user can only delete their own posts
+-  Start messaging when clicking on the profile photo, then show in the messages bar, send photo, sound, emoji
+- Online/offline
+- Google Auth,Anonymous Auth with Firebase
+- Firebase dynamic links for posts(for now working when app close)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/85228645/216552607-8665c8bd-b46e-46c3-81ce-935f89c6d063.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
