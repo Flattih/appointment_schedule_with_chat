@@ -1,0 +1,27 @@
+{
+    
+    "Home":"Home",
+    "Messages":"Messages",
+    "Sign In With Anonymously":"Sign In With Anonymously",
+    "Profile":"Profile",
+    "date":"Date",
+    "title":"Title",
+    "description":"Description",
+    "location":"Location",
+    "create-appointment":"Create Appointment",
+    "pick-time":"Pick Time",
+    "pick-3rd-time":"Pick 3rd Time",
+    "time":"Time",
+    "pick-another-time":"Pick Another Time",
+    "planned-date":"Planned Date",
+    "no-poll-to-show":"No poll to show",
+    "poll-deleted":"Poll deleted successfully!",
+    "poll-created":"Poll created successfully!",
+    "meeting-place":"Meeting Place:",
+    "meeting-date":"Meeting Date: ",
+    "sign-in":"Sign In With Google",
+    "login-text-top":"Are you ready to",
+    "login-text-bottom":"Preparing schedule?",
+    "at-least":"At least choose one date,time and location",
+    "giriş-başarılı":"You have successfully logged in!"
+}

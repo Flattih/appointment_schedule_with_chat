@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "811306280345",
+    "project_id": "appointment-schedule-c0f52",
+    "storage_bucket": "appointment-schedule-c0f52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811306280345:android:fc689e99dbbdcce335df08",
+        "android_client_info": {
+          "package_name": "com.example.appointment_schedule_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811306280345-7cbuhl29fn6rm1ncnd48nuas5jlbrle6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appointment_schedule_app",
+            "certificate_hash": "05ba796f4bd242001e13e1628d1853e744eca436"
+          }
+        },
+        {
+          "client_id": "811306280345-jhm1e2v1g58d0kb7v41nf1hl6ia4b7po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHfyK0X_O7oO0SDkIUp8ekIk-u1ScV0Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811306280345-jhm1e2v1g58d0kb7v41nf1hl6ia4b7po.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811306280345-p9sonufrios5683j8ej8rtupitqbj066.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appointmentScheduleApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

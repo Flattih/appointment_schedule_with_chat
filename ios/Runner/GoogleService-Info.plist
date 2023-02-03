@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>811306280345-p9sonufrios5683j8ej8rtupitqbj066.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.811306280345-p9sonufrios5683j8ej8rtupitqbj066</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBtp9wG-RlP3b197heO1CvO_C6rcyNrv8E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>811306280345</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.appointmentScheduleApp</string>
+	<key>PROJECT_ID</key>
+	<string>appointment-schedule-c0f52</string>
+	<key>STORAGE_BUCKET</key>
+	<string>appointment-schedule-c0f52.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:811306280345:ios:558467cd01c94e1e35df08</string>
+</dict>
+</plist>

@@ -1,0 +1,27 @@
+{
+   
+    "Home":"Ana Sayfa",
+    "Sign In With Anonymously":"Anonim olarak giriş yap",
+    "Messages":"Mesajlar",
+    "Profile":"Profil",
+    "date":"Tarih",
+    "title":"Başlık",
+    "description":"Açıklama",
+    "location":"Konum",
+    "create-appointment":"Randevu Oluştur",  
+    "time":"Zaman",
+    "pick-3rd-time":"3. Zamanı Seç",
+    "pick-another-time":"Başka bir zaman seçin",
+    "pick-time":"Zaman Seç",
+    "planned-date":"Planlanan Tarih",
+    "no-poll-to-show":"Gösterilecek bir şey yok!",
+    "poll-deleted":"Anket başarıyla silindi!",
+    "poll-created":"Anket başarıyla oluşturuldu!",
+    "meeting-place":"Toplantı Yeri:",
+    "meeting-date":"Toplantı Tarihi: ",
+    "sign-in":"Google ile giriş yap",
+    "login-text-top":"Planını hazırlamaya",
+    "login-text-bottom":"Var mısın?",
+    "at-least":"En az bir tarih,saat ve yer seçmelisiniz.",
+    "giriş-başarılı": "Giriş başarılı!"
+}
