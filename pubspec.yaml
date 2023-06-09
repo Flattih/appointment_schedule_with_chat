@@ -48,13 +48,17 @@ dependencies:
   flutter_riverpod: ^2.1.1
   fpdart: ^0.3.0
   routemaster: ^1.0.1
-  date_time_picker: ^2.1.0
+  date_time_picker:
+    git:
+      url: https://github.com/DavidHDJ/date_time_picker.git
+      ref: 2.1.1
+ 
   lottie: ^2.0.0
-  easy_localization: ^3.0.1
+  easy_localization: ^3.0.2
   google_nav_bar: ^5.0.6
   uuid: ^3.0.7
   unicons: ^2.1.0
-  intl: ^0.17.0
+  intl: ^0.18.0
   share_plus: ^6.3.0
   firebase_analytics: ^10.0.7
   firebase_dynamic_links: ^5.0.9
@@ -69,7 +73,7 @@ dependencies:
   permission_handler: ^10.2.0
   path_provider: ^2.0.11
   audioplayers: ^1.2.0
-  google_fonts: ^3.0.1
+  google_fonts: ^4.0.4
   animate_do: ^3.0.2
   
   
